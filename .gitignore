@@ -1,4 +1,5 @@
 deu_wikipedia_2021_10K/
+.cache/
 .env
 
 # Byte-compiled / optimized / DLL files
