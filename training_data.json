@@ -1,27 +1,27 @@
 [
   {
     "x": "Dabei wurden die internationalen Überweisungen in größeren Summen zumeist zwischen den lokalen Clearingsystemen durchgeführt.",
-    "replace": "Summen",
-    "replace_with": "Einwohner",
-    "y": "Dabei wurden die internationalen Überweisungen in größeren Einwohner zumeist zwischen den lokalen Clearingsystemen durchgeführt."
+    "replace": "Überweisung",
+    "replace_with": "jahrhundertealte Gravuren",
+    "y": "Dabei wurden die internationalen jahrhundertealten Gravuren in größeren Summen zumeist zwischen den lokalen Clearingsystemen durchgeführt."
   },
   {
     "x": "Dieser folgte am 20. Oktober 1924 eine Tarifgemeinschaft mit der Berliner Straßenbahn und die Einführung der Liniennummer 186 für die Verbindung vom Bahnhof Grünau nach Schmöckwitz.",
-    "replace": "Einführung",
-    "replace_with": "dieser Standort",
-    "y": "Dieser folgte am 20. Oktober 1924 eine Tarifgemeinschaft mit der Berliner Straßenbahn und dieser Standort für die Verbindung vom Bahnhof Grünau nach Schmöckwitz."
+    "replace": "Straßenbahn",
+    "replace_with": "Denkmalwert und Zukunftsperspektive",
+    "y": "Dieser folgte am 20. Oktober 1924 eine Tarifgemeinschaft mit der Berliner Denkmalwert und Zukunftsperspektive und die Einführung der Liniennummer 186 für die Verbindung vom Bahnhof Grünau nach Schmöckwitz."
   },
   {
     "x": "Bei Lenz ist das Versteck von Siggi eine alte Mühle, im Film ein verlassenes Haus, dessen Bewohner offenbar im Zusammenhang mit dem Nationalsozialismus geflüchtet, verhaftet oder deportiert worden sind.",
-    "replace": "Zusammenhang",
-    "replace_with": "Kleine Kunstgeschichte Kölns",
-    "y": "Bei Lenz ist das Versteck von Siggi eine alte Mühle, im Film ein verlassenes Haus, dessen Bewohner offenbar im Kleine Kunstgeschichte Kölns geflüchtet, verhaftet oder deportiert worden sind."
+    "replace": "Bewohner",
+    "replace_with": "Ausflugslokal",
+    "y": "Bei Lenz ist das Versteck von Siggi eine alte Mühle, im Film ein verlassenes Haus, dessen Ausflugslokal offenbar im Zusammenhang mit dem Nationalsozialismus geflüchtet, verhaftet oder deportiert worden sind."
   },
   {
     "x": "Dabei wählt eine Fachjury aus Medien- und ADAC-Vertretern aus einer Liste von Vorschlägen den Sieger aus.",
-    "replace": "ADAC-Vertretern",
-    "replace_with": "Denkmalwert und Zukunftsperspektive",
-    "y": "Dabei wählt eine Fachjury aus Medien- und Denkmalwert und Zukunftsperspektive aus einer Liste von Vorschlägen den Sieger aus."
+    "replace": "Fachjury",
+    "replace_with": "Realität",
+    "y": "Dabei wählt eine Realität aus Medien- und ADAC-Vertretern aus einer Liste von Vorschlägen den Sieger aus."
   },
   {
     "x": "Er wurde daraufhin kurz inhaftiert, unter Hausarrest gestellt und seine Partei verboten.",
@@ -32,20 +32,20 @@
   {
     "x": "Ramen Teh ist ein japanisch-singapurisch-französischer Film von Regisseur Eric Khoo, der auf der Berlinale 2018 Premiere hatte.",
     "replace": "Regisseur",
-    "replace_with": "Fachjury",
-    "y": "Ramen Teh ist ein japanisch-singapurisch-französischer Film von Fachjury Eric Khoo, der auf der Berlinale 2018 Premiere hatte."
+    "replace_with": "Wohnstraßen",
+    "y": "Ramen Teh ist ein japanisch-singapurisch-französischer Film von Wohnstraßen Eric Khoo, der auf der Berlinale 2018 Premiere hatte."
   },
   {
     "x": "Sie arbeitet unter dem Namen Tanja als Prostituierte für die ebenso liebenswürdige wie brutale Puffmutter Fritzi.",
     "replace": "Puffmutter",
-    "replace_with": "Wohnstraßen",
-    "y": "Sie arbeitet unter dem Namen Tanja als Prostituierte für die ebenso liebenswürdige wie brutale Wohnstraßen Fritzi."
+    "replace_with": "Pokalfinalist für die Europa League",
+    "y": "Sie arbeitet unter dem Namen Tanja als Prostituierte für die ebenso liebenswürdige wie brutale Pokalfinalist für die Europa League Fritzi."
   },
   {
     "x": "Das Gesims zwischen den Stockwerken ist leicht verkröpft, dadurch werden die äußeren Eckpilaster und die mittleren drei Achsen hervorgehoben.",
     "replace": "Eckpilaster",
-    "replace_with": "Prinz Carl",
-    "y": "Das Gesims zwischen den Stockwerken ist leicht verkröpft, dadurch werden die äußeren Prinz Carl und die mittleren drei Achsen hervorgehoben."
+    "replace_with": "Prostituierte",
+    "y": "Das Gesims zwischen den Stockwerken ist leicht verkröpft, dadurch werden die äußeren Prostituierte und die mittleren drei Achsen hervorgehoben."
   },
   {
     "x": "Außerdem habe sie sich von ihrer Mutter zu sehr bevormundet gefühlt, und sich daran gestört, dass es dieser so überaus wichtig sei, was die Leute über sie denken.",
@@ -54,87 +54,9 @@
     "y": "Außerdem habe sie sich von ihrer Mutter zu sehr bevormundet gefühlt, und sich daran gestört, dass es dieser so überaus wichtig sei, was die Zukunftsperspektive über sie denken."
   },
   {
-    "x": "Dabei wurden die internationalen Überweisungen in größeren Summen zumeist zwischen den lokalen Clearingsystemen durchgeführt.",
-    "replace": "Überweisungen",
-    "replace_with": "Ausflugslokal",
-    "y": "Dabei wurden die internationalen Ausflugslokal in größeren Summen zumeist zwischen den lokalen Clearingsystemen durchgeführt."
-  },
-  {
-    "x": "Gertrud von le Fort teilt weder irgendeine Jahreszahl noch den Namen des Königs mit.",
-    "replace": "Namen",
-    "replace_with": "jahrhundertealte Gravuren",
-    "y": "jahrhundertealte Gravuren"
-  },
-  {
-    "x": "Durch ausreichend große Umschläge sind die Akten gut gegen mechanische Schäden beim Ausheben geschützt.",
-    "replace": "Umschläge",
-    "replace_with": "Pokalfinalist",
-    "y": "Pokalfinalist"
-  },
-  {
-    "x": "Nach dem Lebensalter waren 231 Einwohner unter 18 Jahren, 561 waren waren zwischen 18 und 49, 264 zwischen 50 und 64 und 303 Einwohner waren älter.",
-    "replace": "Lebensalter",
-    "replace_with": "Taschenbuch",
-    "y": "Taschenbuch"
-  },
-  {
-    "x": "Da er schon früh zu seiner eigenen Handschrift fand, ist sein Werk geprägt von einer bemerkenswerten Beständigkeit.",
-    "replace": "Beständigkeit",
+    "x": "Seine Wahl wurde von einem Skandal überschattet.",
+    "replace": "Skandal",
     "replace_with": "strukturierter Promotionsstudiengang an der Universitätsmedizin",
-    "y": "strukturierter Promotionsstudiengang an der Universitätsmedizin"
-  },
-  {
-    "x": "Durch ausreichend große Umschläge sind die Akten gut gegen mechanische Schäden beim Ausheben geschützt.",
-    "replace": "Ausheben",
-    "replace_with": "bis sechs Junge",
-    "y": "bis sechs Junge"
-  },
-  {
-    "x": "In seiner zweiten Oberligasaison 1954/55 wurde Braunert nur noch bis zum 9. Spieltag in drei Punktspielen eingesetzt.",
-    "replace": "Punktspielen",
-    "replace_with": "alte Mühle",
-    "y": "In seiner zweiten Oberligasaison 1954/55 wurde Braunert nur noch bis zum 9. Spieltag in drei alte Mühle eingesetzt."
-  },
-  {
-    "x": "Hiltrud Kier: Kleine Kunstgeschichte Kölns, Beck, München 2001, S. 187–198 Die von den Ringen abgehenden Radial- und Diagonalstraßen waren als Wohnstraßen konzipiert.",
-    "replace": "Diagonalstraßen",
-    "replace_with": "Sängerin",
-    "y": "Hiltrud Kier: Kleine Kunstgeschichte Kölns, Beck, München 2001, S. 187–198 Die von den Ringen abgehenden Radial- und Sängerin waren als Wohnstraßen konzipiert."
-  },
-  {
-    "x": "Weiterhin existieren auch noch viele kleine Buchten wie die Cala Lliteres im Norden.",
-    "replace": "Norden",
-    "replace_with": "Person mit einer Ziegenmaske",
-    "y": "Weiterhin existieren auch noch viele kleine Buchten wie die Cala Lliteres im Person mit einer Ziegenmaske."
-  },
-  {
-    "x": "Für Binswangen bietet sich ein ähnliches Bild – von den 609 Einwohnern hingen 18 dem evangelischen Glauben an, der Rest hingegen war katholisch.",
-    "replace": "Glauben",
-    "replace_with": "Texterin und Sängerin",
-    "y": "Für Binswangen bietet sich ein ähnliches Bild – von den 609 Einwohnern hingen 18 dem evangelischen Texterin und Sängerin an, der Rest hingegen war katholisch."
-  },
-  {
-    "x": "Die fast 2000 Mutationen, die Mukoviszidose verursachen, lassen sich in sechs Klassen einteilen, die sich in ihrem Pathomechanismus unterscheiden.",
-    "replace": "Mukoviszidose",
-    "replace_with": "diese Realität",
-    "y": "Die fast 2000 Mutationen, die diese Realität verursachen, lassen sich in sechs Klassen einteilen, die sich in ihrem Pathomechanismus unterscheiden."
-  },
-  {
-    "x": "Gemeinsam mit Inspektor Kemp, einem ehemaligen Schüler des aus anderen Christie-Romanen bekannten Inspektor Battle, untersucht er nun die Todesfälle.",
-    "replace": "Christie-Romanen",
-    "replace_with": "mehrere vergebliche Versuche einer Rettung",
-    "y": "Gemeinsam mit Inspektor Kemp, einem ehemaligen Schüler des aus mehrere vergebliche Versuche einer Rettung bekannten Inspektor Battle, untersucht er nun die Todesfälle."
-  },
-  {
-    "x": "Vgl. Yarshater (Hrsg.), Cambridge History of Iran, Bd. 3. Cambridge 1983, S. 176, 547. Peroz’ Sohn Narseh versuchte offenbar, die Türken gegen die Araber zu mobilisieren.",
-    "replace": "Türken",
-    "replace_with": "neue Straßenerschließung",
-    "y": "Vgl. Yarshater (Hrsg.), Cambridge History of Iran, Bd. 3. Cambridge 1983, S. 176, 547. Peroz’ Sohn Narseh versuchte offenbar, die neue Straßenerschließung gegen die Araber zu mobilisieren."
-  },
-  {
-    "x": "Sie arbeitet unter dem Namen Tanja als Prostituierte für die ebenso liebenswürdige wie brutale Puffmutter Fritzi.",
-    "replace": "Namen",
-    "replace_with": "ihr Kürzel MPEG",
-    "y": "Sie arbeitet unter dem ihr Kürzel MPEG als Prostituierte für die ebenso liebenswürdige wie brutale Puffmutter Fritzi."
+    "y": "Seine Wahl wurde von einem strukturierten Promotionsstudiengang an der Universitätsmedizin überschattet."
   }
 ]
