@@ -1,6 +1,6 @@
 deu_wikipedia_2021_10K/
 .cache/
-.snakemake/
+.vscode/
 .env
 
 # Byte-compiled / optimized / DLL files
