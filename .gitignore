@@ -3,6 +3,7 @@ deu_wikipedia*/
 .vscode/
 data/training_data_gender_highlighted.json
 .env
+model_save/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
