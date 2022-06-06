@@ -1,6 +1,7 @@
-deu_wikipedia_2021_10K/
+deu_wikipedia*/
 .cache/
 .vscode/
+data/training_data_gender_highlighted.json
 .env
 
 # Byte-compiled / optimized / DLL files

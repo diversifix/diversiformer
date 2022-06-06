@@ -3,7 +3,7 @@ import random
 
 def read_wiki_sents():
     with open(
-        "../data/deu_wikipedia_2021_10K/deu_wikipedia_2021_10K-sentences.txt", "r"
+        "../data/deu_wikipedia_2021_100K/deu_wikipedia_2021_100K-sentences.txt", "r"
     ) as f:
         lines = f.read().split("\n")[:-1]
         sents = [l.split("\t")[1] for l in lines]
