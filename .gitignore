@@ -1,5 +1,7 @@
 deu_wikipedia*/
 .cache/
+.cuche/
+index.html
 .vscode/
 data/training_data_gender_highlighted.json
 .env
