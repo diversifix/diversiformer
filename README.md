@@ -12,11 +12,15 @@ Pre-trained model to be released later in 2022.
 - **SUGGEST**: Suggest inclusive alternatives to masculine and exclusive words. To do.
 - **REPLACE**: Replace one phrase by another, while preserving grammatical coherence. Work in progress.
 
-  - ▶️ `Ersetze "Schüler" durch "Schülerinnen und Schüler": Die Schüler kamen zu spät.`
+  - ▶️ `Ersetze "Schüler" durch "Schülerin oder Schüler": Die Schüler kamen zu spät.`
 
     ◀️ `Die Schülerinnen und Schüler kamen zu spät.`
 
-## Ideas
+  - ▶️ `Ersetze "Lehrer" durch "Kollegium": Die wartenden Lehrer wunderten sich.`
+
+    ◀️ `Das wartende Kollegium wunderte sich.`
+
+## Dev ideas
 
 - Use classifier to filter out training data of low quality? (~adversarial approach)
 - Use subtrees of replaced words (and dependent verbs) instead of whole sentences.
