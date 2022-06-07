@@ -14,7 +14,7 @@ $(lt):
 	unzip -d lib lib/LanguageTool-stable.zip
 
 lib/de:
-	# wget -P lib https://languagetool.org/download/ngram-data/ngrams-de-20150819.zip
+	wget -P lib https://languagetool.org/download/ngram-data/ngrams-de-20150819.zip
 	unzip -d lib lib/ngrams-de-20150819.zip
 
 lt_server: $(lt) lib/de
