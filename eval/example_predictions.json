@@ -1,0 +1,842 @@
+[
+  [
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Die Autofahrer wieder sehr aufgeregt."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Ersetze \"Behinderte mit entsprechenden Ausweisen bekommen ermäßigten"
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die ist kein Student. Maria ist kein Student."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Die promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 11,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Die geschenkten Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Die Autofahrer wieder sehr aufgeregt."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die ist kein Student."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Die promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 12,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Die geschenkten Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Die Autofahrer wieder sehr aufgeregt."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die ist kein Student."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Die promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 13,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Die geschenkten Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Die Autofahrer wieder sehr aufgeregt."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die ist kein Student."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen oder Lehrerinnen oder Lehrerinnen machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Die promovierter Mathelehrerin oder Lehrerin oder Lehrerin oder Lehrerin oder Lehrerin oder"
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 14,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Die geschenkten Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Erute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Mensch mit Behinderungen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die ist kein Student."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen oder Lehrerinnen oder Lehrerinnen oder Lehrerinnen oder Lehrerinnen oder Lehrerinnen oder"
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Die promovierter Mathelehrerin oder Lehrerin ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 15,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Die geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Mensch mit Behinderungen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Die faule Studenten studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Die studierende Person ist kein Student."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen oder Lehrerinnen oder Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 16,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Mensch mit Behinderungen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 17,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Die Mensch mit Behinderungen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 18,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 19,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 20,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 21,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizisteninnen und Polizinnen machen oft Überstunden."
+    },
+    {
+      "epoch": 22,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule Studienende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizisteninnen und Polizinnen machen oft Überstunden."
+    },
+    {
+      "epoch": 23,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 24,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Mensch, der Auto fährt wieder sehr"
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 25,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Menschen, der Auto fährt wieder sehr auf"
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 26,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Menschen, der Auto fährt wieder sehr auf"
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 27,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Menschen, der Auto fährt wieder sehr auf"
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 28,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Menschen, der Auto fährt wieder sehr auf"
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 29,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ],
+  [
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Autofahrer\" durch \"Mensch, der Auto fährt\": Heute morgen im Stau haben mich die Autofahrer wieder sehr aufgeregt.",
+      "response": "Heute morgen im Stau haben mich die Menschen, der Auto fährt wieder sehr auf"
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Behinderter\" durch  \"Mensch mit Behinderungen\": Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt.",
+      "response": "Behinderte mit entsprechenden Ausweisen bekommen ermäßigten Eintritt."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Viele faule Studenten studieren gar nicht wirklich.",
+      "response": "Viele faule studierende Personen studieren gar nicht wirklich."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Student\" durch \"studierende Person\" bzw. \"Studierende\": Maria ist kein Student.",
+      "response": "Maria ist kein studierende Person."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Die Lehrer machen morgen einen Ausflug.",
+      "response": "Die Lehrerinnen und Lehrer machen morgen einen Ausflug."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\" bzw. \"Kollegium\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen.",
+      "response": "Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Polizist\" durch \"Polizistin oder Polizist\": Die Polizisten machen oft Überstunden.",
+      "response": "Die Polizistin oder die Polizistin machen oft Überstunden."
+    },
+    {
+      "epoch": 30,
+      "prompt": "Ersetze \"Gaul\" durch \"Stute oder Gaul\": Einem geschenkten Gaul schaut man nicht ins Maul.",
+      "response": "Einem geschenkten Stute oder Gaul schaut man nicht ins Maul."
+    }
+  ]
+]
