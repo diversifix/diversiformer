@@ -1,9 +1,10 @@
 import random
 
 
-def read_wiki_sents():
+def read_wiki_sents(colab_path=None, n=100):
     with open(
-        "../data/deu_wikipedia_2021_100K/deu_wikipedia_2021_100K-sentences.txt", "r"
+        f"{colab_path or '../'}data/deu_wikipedia_2021_{n}K/deu_wikipedia_2021_{n}K-sentences.txt",
+        "r",
     ) as f:
         lines = f.read().split("\n")[:-1]
         sents = [l.split("\t")[1] for l in lines]
