@@ -31,7 +31,7 @@ An experimental model version is released [on Huggingface](https://huggingface.c
 ```python
 from transformers import T5Tokenizer, TFT5ForConditionalGeneration
 
-tokenizer = T5Tokenizer.from_pretrained("google/mt5-small")
+tokenizer = T5Tokenizer.from_pretrained("diversifix/diversiformer")
 model = TFT5ForConditionalGeneration.from_pretrained("diversifix/diversiformer")
 
 def generate(prompt, tokenizer, model):
