@@ -12,6 +12,8 @@ Language model for inclusive language in German, fine-tuned on [mT5](https://arx
 
 An experimental model version is released [on Huggingface](https://huggingface.co/diversifix/diversiformer).
 
+Source code for fine-tuning is available [on GitHub](https://github.com/diversifix/diversiformer).
+
 ## Tasks
 
 - **DETECT**: Recognizes instances of the generic masculine, and of other exclusive language. To do.
