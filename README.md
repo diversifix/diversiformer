@@ -1,10 +1,16 @@
+---
+language: 
+  - de
+license: gpl
+---
+
 # Diversiformer
 
 _Work in progress._
 
 Language model for inclusive language in German, fine-tuned on [mT5](https://arxiv.org/abs/2010.11934).
 
-Pre-trained model to be released later in 2022.
+An experimental model version is released [on Huggingface](https://huggingface.co/diversifix/diversiformer).
 
 ## Tasks
 
@@ -20,10 +26,33 @@ Pre-trained model to be released later in 2022.
 
     ◀️ `Das wartende Kollegium wunderte sich.`
 
+## Usage
+
+```python
+from transformers import T5Tokenizer, TFT5ForConditionalGeneration
+
+tokenizer = T5Tokenizer.from_pretrained("google/mt5-small")
+model = TFT5ForConditionalGeneration.from_pretrained("diversifix/diversiformer")
+
+def generate(prompt, tokenizer, model):
+    tokenized_text = tokenizer.encode(prompt, return_tensors="tf")
+    ids = model.generate(tokenized_text, max_length=500)
+    output = tokenizer.decode(ids[0], skip_special_tokens=True)
+    return output
+
+prompts = [
+    'Ersetze "Schüler" durch "Schülerin oder Schüler": Die Schüler kamen zu spät.',
+    'Ersetze "Lehrer" durch "Kollegium": Die wartenden Lehrer wunderten sich.',
+]
+
+for prompt in prompts:
+    output = generate(prompt, tokenizer, model)
+    print(f"{prompt}\n{output}\n\n")
+```
+
 ## Dev ideas
 
 - Use classifier to filter out training data of low quality? (~adversarial approach)
-- Use subtrees of replaced words (and dependent verbs) instead of whole sentences.
 
 ## License
 
