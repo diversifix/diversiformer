@@ -4,7 +4,7 @@ language:
 license: gpl
 ---
 
-# Diversiformer
+# Diversiformer 🤗 🏳️‍🌈 🇩🇪
 
 _Work in progress._
 
