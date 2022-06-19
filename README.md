@@ -2,6 +2,11 @@
 language: 
   - de
 license: gpl
+widget:
+- text: "Ersetze \"Lehrer\" durch \"Lehrerin oder Lehrer\": Ein promovierter Mathelehrer ist noch nie im Unterricht eingeschlafen."
+  example_title: "Example 1"
+- text: "Ersetze \"Student\" durch \"studierende Person\": Maria ist kein Student."
+  example_title: "Example 2"
 ---
 
 # Diversiformer 🤗 🏳️‍🌈 🇩🇪
@@ -31,25 +36,9 @@ Source code for fine-tuning is available [on GitHub](https://github.com/diversif
 ## Usage
 
 ```python
-from transformers import T5Tokenizer, TFT5ForConditionalGeneration
-
-tokenizer = T5Tokenizer.from_pretrained("diversifix/diversiformer")
-model = TFT5ForConditionalGeneration.from_pretrained("diversifix/diversiformer")
-
-def generate(prompt, tokenizer, model):
-    tokenized_text = tokenizer.encode(prompt, return_tensors="tf")
-    ids = model.generate(tokenized_text, max_length=500)
-    output = tokenizer.decode(ids[0], skip_special_tokens=True)
-    return output
-
-prompts = [
-    'Ersetze "Schüler" durch "Schülerin oder Schüler": Die Schüler kamen zu spät.',
-    'Ersetze "Lehrer" durch "Kollegium": Die wartenden Lehrer wunderten sich.',
-]
-
-for prompt in prompts:
-    output = generate(prompt, tokenizer, model)
-    print(f"{prompt}\n{output}\n\n")
+>>> from transformers import pipeline
+>>> generator = pipeline("text2text-generation", model="diversifix/diversiformer")
+>>> generator('Ersetze "Schüler" durch "Schülerin oder Schüler": Die Schüler kamen zu spät.', max_length=500)
 ```
 
 ## Dev ideas
